@@ -1,0 +1,21 @@
+dependencies:
+  espressif/mdns:
+    component_hash: d8ae7aa491ff97aea1d00d514a1de42cdbaaf1bce10df183968fa5594b904de7
+    source:
+      storage_url: file:///D:/Users/Lenovo/.espressif/registry
+      type: service
+    version: 1.2.5
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.1
+  protocol_examples_common:
+    component_hash: null
+    source:
+      path: D:\Users\Lenovo\.espressif\frameworks\esp-idf-v5.2.1\examples\common_components\protocol_examples_common
+      type: local
+    version: '*'
+manifest_hash: ba4e8694442e0424263928ba6d76575e519080b3f7412843fc38e016cf1238b6
+target: esp32s3
+version: 1.0.0
